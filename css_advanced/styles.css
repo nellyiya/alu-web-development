@@ -17,7 +17,7 @@
 
 .first-section {
     background-repeat: no-repeat;
-    background-image: url(/images/background.png);
+    background-image: url(images/background.png);
     object-fit: contain;
     background-size: cover;
     background-position-y: center;
